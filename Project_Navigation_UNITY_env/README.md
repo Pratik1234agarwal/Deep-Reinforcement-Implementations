@@ -23,11 +23,14 @@ The task is episodic, and in order to solve the environment, your agent must get
 We will use Deep Q Learning to solve the environment . 
 
 Let's first see an agent play the game , by executing action at random 
+
 ![random_agent](gifs/random_play.gif)
+
 
 As you can see that the agent doesn't no any good and we didn't expect it to . 
 
 Here's the agent playing after being trained . 
+
 ![ai_play](gifs/ai_play.gif)
 
 You can see that the AI has learnt to avoid the **Blue Banana** while collecting the **Yellow** ones . 
