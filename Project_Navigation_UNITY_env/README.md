@@ -44,12 +44,15 @@ If u want to run this locally on your computer , follow the steps given below :-
 #### 1. Using Conda 
 I have included the **.yml** file for the conda env 
 To install simply open a command prompt and navigate to the setup folder and type the following:- 
+
     conda env create -f navigation.yml
+    
 This will download and install all the required packages 
 
 #### 2. Using PiP
 There's a `requirement.txt` file inside the setup folder 
 To install just navigate to the setup folder in the command prompt and enter the following :-
+
     pip install -r requirement.txt
 
 This installs the packages for you . 
