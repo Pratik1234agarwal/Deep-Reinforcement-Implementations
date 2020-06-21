@@ -1,6 +1,6 @@
 # Project 2: Continuous Control
 
-Author: [Aman Dalmia](http://github.com/dalmia) 
+Author: [Pratik Agarwal](https://github.com/Pratik1234agarwal) 
 
 The project demonstrates how policy-based methods can be used to learn the optimal policy in a model-free Reinforcement Learning setting using a Unity environment, in which a double-jointed arm can move to target locations. A reward of +0.1 is provided for each step that the agent's hand is in the goal location. Thus, the goal of the agent is to maintain its position at the target location for as many time steps as possible.
 
